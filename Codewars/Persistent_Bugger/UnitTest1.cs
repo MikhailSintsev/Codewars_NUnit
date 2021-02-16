@@ -16,6 +16,7 @@ namespace Persistent_Bugger
             while (n.ToString().Length > 1)
             {
                 long result = 1;
+
                 foreach (var item in n.ToString())
                 {
                     int multiplier = int.Parse(item.ToString());
