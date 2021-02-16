@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Take_a_Ten_Minute_Walk", "T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistent_Bugger__Recursion", "Persistent_Bugger__Recursion\Persistent_Bugger__Recursion.csproj", "{7327A277-F582-4F55-AA7C-86E1F837D338}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistent_Bugger", "Persistent_Bugger\Persistent_Bugger.csproj", "{E5A67282-6B08-4E8D-8410-3C2A1A8E196D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{7327A277-F582-4F55-AA7C-86E1F837D338}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7327A277-F582-4F55-AA7C-86E1F837D338}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7327A277-F582-4F55-AA7C-86E1F837D338}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5A67282-6B08-4E8D-8410-3C2A1A8E196D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5A67282-6B08-4E8D-8410-3C2A1A8E196D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5A67282-6B08-4E8D-8410-3C2A1A8E196D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5A67282-6B08-4E8D-8410-3C2A1A8E196D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
