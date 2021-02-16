@@ -12,15 +12,10 @@ namespace Regex_validate_PIN_code
     {
         public static bool ValidatePin(string pin)
         {
-            string fourDigits = @"^\d{4}$";
-            string sixDigits = @"^\d{6}$";
-            string newLine = @"\n";
+            string fourOrSix = @"^\d{4}\z|^\d{6}\z";
 
-            if (!Regex.IsMatch(pin, newLine))
-            {
-                if (Regex.IsMatch(pin, fourDigits) || Regex.IsMatch(pin, sixDigits))
-                    return true;
-            }
+            if (Regex.IsMatch(pin, fourOrSix))
+                return true;
             return false;
         }
     }
