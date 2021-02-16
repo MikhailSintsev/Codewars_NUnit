@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Square_Every_Digit", "Squar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert_boolean_values_to_strings", "Convert_boolean_values_to_strings\Convert_boolean_values_to_strings.csproj", "{4CB808D3-991E-4E8A-A280-EC1A6E39D7C6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Take_a_Ten_Minute_Walk", "Take_a_Ten_Minute_Walk\Take_a_Ten_Minute_Walk.csproj", "{65585954-46F9-4C84-8837-CE6EA5D80AA5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{4CB808D3-991E-4E8A-A280-EC1A6E39D7C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CB808D3-991E-4E8A-A280-EC1A6E39D7C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4CB808D3-991E-4E8A-A280-EC1A6E39D7C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65585954-46F9-4C84-8837-CE6EA5D80AA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65585954-46F9-4C84-8837-CE6EA5D80AA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65585954-46F9-4C84-8837-CE6EA5D80AA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65585954-46F9-4C84-8837-CE6EA5D80AA5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
