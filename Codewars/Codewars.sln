@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert_boolean_values_to_s
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Take_a_Ten_Minute_Walk", "Take_a_Ten_Minute_Walk\Take_a_Ten_Minute_Walk.csproj", "{65585954-46F9-4C84-8837-CE6EA5D80AA5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistent_Bugger__Recursion", "Persistent_Bugger__Recursion\Persistent_Bugger__Recursion.csproj", "{7327A277-F582-4F55-AA7C-86E1F837D338}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{65585954-46F9-4C84-8837-CE6EA5D80AA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65585954-46F9-4C84-8837-CE6EA5D80AA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65585954-46F9-4C84-8837-CE6EA5D80AA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7327A277-F582-4F55-AA7C-86E1F837D338}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7327A277-F582-4F55-AA7C-86E1F837D338}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7327A277-F582-4F55-AA7C-86E1F837D338}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7327A277-F582-4F55-AA7C-86E1F837D338}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
