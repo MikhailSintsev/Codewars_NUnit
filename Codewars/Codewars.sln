@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Isograms", "Isograms\Isogra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Square_Every_Digit", "Square_Every_Digit\Square_Every_Digit.csproj", "{CC8C33DC-E5D7-48DC-A87B-AF8641094422}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert_boolean_values_to_strings", "Convert_boolean_values_to_strings\Convert_boolean_values_to_strings.csproj", "{4CB808D3-991E-4E8A-A280-EC1A6E39D7C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{CC8C33DC-E5D7-48DC-A87B-AF8641094422}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC8C33DC-E5D7-48DC-A87B-AF8641094422}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC8C33DC-E5D7-48DC-A87B-AF8641094422}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CB808D3-991E-4E8A-A280-EC1A6E39D7C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CB808D3-991E-4E8A-A280-EC1A6E39D7C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CB808D3-991E-4E8A-A280-EC1A6E39D7C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CB808D3-991E-4E8A-A280-EC1A6E39D7C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
