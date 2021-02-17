@@ -9,20 +9,20 @@ namespace Persistent_Bugger
 
     public class Persist
     {
-        public static int Persistence(long n)
+        public static int Persistence(long number)
         {
             int count = 0;
 
-            while (n.ToString().Length > 1)
+            while (number.ToString().Length > 1)
             {
                 long result = 1;
 
-                foreach (var item in n.ToString())
+                foreach (var item in number.ToString())
                 {
                     int multiplier = int.Parse(item.ToString());
                     result *= multiplier;
                 }
-                n = result;
+                number = result;
                 count++;
             }
             return count;
