@@ -19,9 +19,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Persistent_Bugger", "Persis
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Regex_validate_PIN_code", "Regex_validate_PIN_code\Regex_validate_PIN_code.csproj", "{56A20173-4FB1-4A98-A0D4-3B723ABBBE79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opposite_number", "Opposite_number\Opposite_number.csproj", "{1CE63900-A26E-4533-8BDA-AE3E47E8B358}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opposite_number", "Opposite_number\Opposite_number.csproj", "{1CE63900-A26E-4533-8BDA-AE3E47E8B358}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rot13", "Rot13\Rot13.csproj", "{92B0AD8B-7573-4097-9ED3-58D19E9E083B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rot13", "Rot13\Rot13.csproj", "{92B0AD8B-7573-4097-9ED3-58D19E9E083B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unique_In_Order", "Unique_In_Order\Unique_In_Order.csproj", "{D388EE72-ED72-4E47-AC42-4CC77B0FC881}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{92B0AD8B-7573-4097-9ED3-58D19E9E083B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92B0AD8B-7573-4097-9ED3-58D19E9E083B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92B0AD8B-7573-4097-9ED3-58D19E9E083B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D388EE72-ED72-4E47-AC42-4CC77B0FC881}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D388EE72-ED72-4E47-AC42-4CC77B0FC881}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D388EE72-ED72-4E47-AC42-4CC77B0FC881}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D388EE72-ED72-4E47-AC42-4CC77B0FC881}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
