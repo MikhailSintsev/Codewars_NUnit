@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opposite_number", "Opposite
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rot13", "Rot13\Rot13.csproj", "{92B0AD8B-7573-4097-9ED3-58D19E9E083B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unique_In_Order", "Unique_In_Order\Unique_In_Order.csproj", "{D388EE72-ED72-4E47-AC42-4CC77B0FC881}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Unique_In_Order", "Unique_In_Order\Unique_In_Order.csproj", "{D388EE72-ED72-4E47-AC42-4CC77B0FC881}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enough_is_enough", "Enough_is_enough\Enough_is_enough.csproj", "{6EA78B6D-DDEE-48AB-AB35-657A354C5D3F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{D388EE72-ED72-4E47-AC42-4CC77B0FC881}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D388EE72-ED72-4E47-AC42-4CC77B0FC881}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D388EE72-ED72-4E47-AC42-4CC77B0FC881}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EA78B6D-DDEE-48AB-AB35-657A354C5D3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EA78B6D-DDEE-48AB-AB35-657A354C5D3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EA78B6D-DDEE-48AB-AB35-657A354C5D3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EA78B6D-DDEE-48AB-AB35-657A354C5D3F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
