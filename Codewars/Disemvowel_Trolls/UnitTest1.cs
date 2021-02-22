@@ -15,7 +15,7 @@ namespace Disemvowel_Trolls
         public static string Disemvowel(string str)
         {
             string vowelToEmpty = "";
-            Regex regex = new Regex("[aeiou]", RegexOptions.IgnoreCase);
+            Regex regex = new Regex(@"[aeiouy]", RegexOptions.IgnoreCase);
             return regex.Replace(str, vowelToEmpty);            
         }
     }
