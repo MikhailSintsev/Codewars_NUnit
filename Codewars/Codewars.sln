@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Disemvowel_Trolls", "Disemv
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vowel_Count", "Vowel_Count\Vowel_Count.csproj", "{C080E4FC-5DC9-490E-AFF0-DF84927CF341}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IQ_Test", "IQ_Test\IQ_Test.csproj", "{0FF54BD4-6D66-460B-AF01-A339A0B78832}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{C080E4FC-5DC9-490E-AFF0-DF84927CF341}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C080E4FC-5DC9-490E-AFF0-DF84927CF341}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C080E4FC-5DC9-490E-AFF0-DF84927CF341}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FF54BD4-6D66-460B-AF01-A339A0B78832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FF54BD4-6D66-460B-AF01-A339A0B78832}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FF54BD4-6D66-460B-AF01-A339A0B78832}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FF54BD4-6D66-460B-AF01-A339A0B78832}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
