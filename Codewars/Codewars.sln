@@ -33,7 +33,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vowel_Count", "Vowel_Count\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IQ_Test", "IQ_Test\IQ_Test.csproj", "{0FF54BD4-6D66-460B-AF01-A339A0B78832}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Replace_With_Alphabet_Position", "Replace_With_Alphabet_Position\Replace_With_Alphabet_Position.csproj", "{93682F1C-7456-472B-B07F-6291DD20F053}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Replace_With_Alphabet_Position", "Replace_With_Alphabet_Position\Replace_With_Alphabet_Position.csproj", "{93682F1C-7456-472B-B07F-6291DD20F053}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Product_of_consecutive_Fib_numbers", "Product_of_consecutive_Fib_numbers\Product_of_consecutive_Fib_numbers.csproj", "{126AB568-25A9-4CF9-9A27-EEC40772D446}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{93682F1C-7456-472B-B07F-6291DD20F053}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93682F1C-7456-472B-B07F-6291DD20F053}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93682F1C-7456-472B-B07F-6291DD20F053}.Release|Any CPU.Build.0 = Release|Any CPU
+		{126AB568-25A9-4CF9-9A27-EEC40772D446}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{126AB568-25A9-4CF9-9A27-EEC40772D446}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{126AB568-25A9-4CF9-9A27-EEC40772D446}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{126AB568-25A9-4CF9-9A27-EEC40772D446}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
